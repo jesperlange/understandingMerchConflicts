@@ -1,2 +1,2 @@
-# Understanding Merge Conflicts
+# Understanding Merge Conflict
 Tony
